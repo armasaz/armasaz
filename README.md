@@ -1,33 +1,56 @@
-# 👋 Hola, soy Ángel Zaid Armas Arteaga
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-💻 Estudiante de **Desarrollo de Software Multiplataforma**  
-🌎 De Xochitepec, Morelos, México  
+<!--h1 sin borde inferior-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hola 👋, soy Ángel Zaid</h1></summary>
+  </ul>
+</div>
 
----
+<!--Sobre mí-->
+## <picture><img src="https://media.giphy.com/media/H3NF3JvE1mOsOXb8l3/giphy.gif" width=30px></picture> Sobre mí
 
-## 🚀 Sobre mí
-- 📚 Actualmente aprendiendo y creando proyectos en **Java, C y desarrollo web**.  
-- 🖥️ Interesado en el desarrollo de aplicaciones con **JavaFX y bases de datos Oracle**.  
-- 🔧 Experiencia usando **Git y GitHub** en proyectos académicos y personales.  
-- 📝 También he trabajado en **documentación de proyectos de software**.  
-- 🎓 Cuento con un **certificado TOEFL nivel B1** en inglés.  
+<picture><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=300px></picture>
 
----
+- 🎓 Estudiante de **Desarrollo de Software Multiplataforma**  
+- 💻 Enfocado en **Desarrollo Web** y aprendiendo **JavaFX + Oracle DB**  
+- 🏆 Certificado **TOEFL B1**  
+- 📚 Interesado en **Bases de datos, Frontend y la Inteligencia Artificial**  
+- 🎮 Me gusta jugar videojuegos, escuchar música mientras estudio y ver series  
+- ✨ Lema: *“Manténlo simple, pero significativo”*  
 
-## 🎯 Habilidades
-- **Lenguajes:** Java, C, JavaScript, HTML, CSS  
-- **Herramientas:** Git, GitHub, Oracle DB, Cisco Packet Tracer  
-- **Enfoque:** desarrollo web, aplicaciones de escritorio y bases de datos  
+<br>
 
----
+## 🛠️ Mis Habilidades
 
-## ⚡ Fun facts
-- 😺 Más de gatos que de perros  
-- 🔴 Mi color favorito es el rojo (pero en ropa prefiero el gris oscuro)  
-- 🥤 Fan del agua de jamaica  
-- 🎮 Me gusta jugar videojuegos con amigos y ver series en mi tiempo libre  
+### 💻 Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
----
+### 🎨 Desarrollo Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-📫 **Conecta conmigo:**  
-Aquí en GitHub o en mis otras redes 🚀
+### 🗄️ Bases de Datos & Herramientas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+### ⚡ IDEs & Sistemas Operativos
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+
+<br>
+
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----------
+Créditos: [armasaz](https://github.com/armasaz)
+
+Última edición: 03/09/2025
